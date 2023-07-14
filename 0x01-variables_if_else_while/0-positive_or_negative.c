@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  * Description: 'Check for positive ngative or zero'
- * Return: always 0
+ * Return: Always 0
  */
 int main(void)
 {
@@ -25,4 +25,4 @@ else
 printf("%d is negative\n", n);
 }
 return (0);
-}	   
+}
